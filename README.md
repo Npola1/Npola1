@@ -9,7 +9,19 @@
 
 ![Banner](banner.png)
 
-# Hi, I'm Daniel!
+</div>
+
+---
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=2500&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=550&height=65&lines=Hi%2C+I%27m+Daniel%21)
+
+</div>
+
+---
+
+## 👨‍💻 About me
 
 I'm a third-year **Integrated Computer Science student at Trinity College Dublin**, with a strong interest in software engineering, mathematics, and problem-solving.
 
@@ -20,8 +32,6 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Npola1)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielschonekker.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schoneka@tcd.ie)
-
-</div>
 
 ---
 
@@ -59,7 +69,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 ## 🚀 Featured Projects
 
-### 🏎️ [![TORCS Racing](https://img.shields.io/badge/TORCS-Autonomous_Racing-2563EB?style=for-the-badge)](https://github.com/Npola1/torcs-car)
+### 🏎️ TORCS Autonomous Racing [↗](https://github.com/Npola1/torcs-car)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP_Networking-00897B?style=flat-square)
@@ -67,7 +77,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 Developed autonomous driving controllers and multiplayer functionality, supporting six different driver configurations.
 
-### 📱 [![Internship Tracker](https://img.shields.io/badge/Internship-Application_Tracker-2563EB?style=for-the-badge)](https://github.com/Npola1/internship-application-tracker)
+### 📱 Internship Application Tracker [↗](https://github.com/Npola1/internship-application-tracker)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
@@ -76,7 +86,7 @@ Developed autonomous driving controllers and multiplayer functionality, supporti
 
 Building an Android application for managing internship applications and integrating AI-assisted CV tailoring.
 
-### ⚔️ [![Turn Based Combat](https://img.shields.io/badge/Turn_Based-Combat_Website-2563EB?style=for-the-badge)](https://github.com/Npola1/Turn-Based-Combat-Website)
+### ⚔️ Turn Based Combat Website [↗](https://github.com/Npola1/Turn-Based-Combat-Website)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -85,7 +95,7 @@ Building an Android application for managing internship applications and integra
 
 Built a browser-based RPG featuring interactive combat, game-state management, and cloud-backed save functionality.
 
-### 🔌 [![Microprocessor](https://img.shields.io/badge/Microprocessor-Programming-2563EB?style=for-the-badge)](https://github.com/Npola1/MicroProcessorsProject)
+### 🔌 Microprocessor Programming [↗](https://github.com/Npola1/MicroProcessorsProject)
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-555555?style=flat-square)
@@ -93,7 +103,7 @@ Built a browser-based RPG featuring interactive combat, game-state management, a
 
 Developed embedded applications using hardware interrupts, timers, GPIO control, and Morse-code decoding.
 
-### ✈️ [![Flight Data](https://img.shields.io/badge/Flight_Data-Visualisation-2563EB?style=for-the-badge)](https://github.com/Npola1/Programming-Project)
+### ✈️ Flight Data Visualisation [↗](https://github.com/Npola1/Programming-Project)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
@@ -107,17 +117,9 @@ Implemented data-loading functionality, object-oriented models, and processing l
 
 <div align="center">
 
-### Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Npola1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-
-### Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Npola1&theme=tokyonight&hide_border=true)
-
-### Repository Languages
-
-![Repos by Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Npola1&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npola1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="205" alt="Most Used Languages" />
+<img src="https://streak-stats.demolab.com?user=Npola1&theme=tokyonight&hide_border=true" width="240" alt="Contribution Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Npola1&theme=tokyonight" width="205" alt="Repository Languages" />
 
 </div>
 
