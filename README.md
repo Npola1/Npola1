@@ -69,7 +69,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 ## 🚀 Featured Projects
 
-### 🏎️ TORCS Autonomous Racing [↗](https://github.com/Npola1/torcs-car)
+### 🏎️ <a href="https://github.com/Npola1/torcs-car"><u>TORCS Autonomous Racing</u></a>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP_Networking-00897B?style=flat-square)
@@ -77,7 +77,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 Developed autonomous driving controllers and multiplayer functionality, supporting six different driver configurations.
 
-### 📱 Internship Application Tracker [↗](https://github.com/Npola1/internship-application-tracker)
+### 📱 <a href="https://github.com/Npola1/internship-application-tracker"><u>Internship Application Tracker</u></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
@@ -86,7 +86,7 @@ Developed autonomous driving controllers and multiplayer functionality, supporti
 
 Building an Android application for managing internship applications and integrating AI-assisted CV tailoring.
 
-### ⚔️ Turn Based Combat Website [↗](https://github.com/Npola1/Turn-Based-Combat-Website)
+### ⚔️ <a href="https://github.com/Npola1/Turn-Based-Combat-Website"><u>Turn Based Combat Website</u></a>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -95,7 +95,7 @@ Building an Android application for managing internship applications and integra
 
 Built a browser-based RPG featuring interactive combat, game-state management, and cloud-backed save functionality.
 
-### 🔌 Microprocessor Programming [↗](https://github.com/Npola1/MicroProcessorsProject)
+### 🔌 <a href="https://github.com/Npola1/MicroProcessorsProject"><u>Microprocessor Programming</u></a>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-555555?style=flat-square)
@@ -103,7 +103,7 @@ Built a browser-based RPG featuring interactive combat, game-state management, a
 
 Developed embedded applications using hardware interrupts, timers, GPIO control, and Morse-code decoding.
 
-### ✈️ Flight Data Visualisation [↗](https://github.com/Npola1/Programming-Project)
+### ✈️ <a href="https://github.com/Npola1/Programming-Project"><u>Flight Data Visualisation</u></a>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
@@ -117,9 +117,9 @@ Implemented data-loading functionality, object-oriented models, and processing l
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npola1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" width="205" alt="Most Used Languages" />
-<img src="https://streak-stats.demolab.com?user=Npola1&theme=tokyonight&hide_border=true" width="240" alt="Contribution Streak" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Npola1&theme=tokyonight" width="205" alt="Repository Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Npola1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Most Used Languages" />
+<img src="https://streak-stats.demolab.com?user=Npola1&theme=tokyonight&hide_border=true" height="180" alt="Contribution Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Npola1&theme=tokyonight" height="180" alt="Repository Languages" />
 
 </div>
 
