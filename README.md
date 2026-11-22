@@ -23,9 +23,10 @@
 
 ## 👨‍💻 About me
 
-I'm a third-year **Integrated Computer Science student at Trinity College Dublin**, with a strong interest in software engineering, mathematics, and problem-solving.
+I'm a third-year Integrated Computer Science student at Trinity College Dublin with a strong interest in software engineering, mathematics, and problem-solving.
 
-**Java is my favourite programming language**, and I enjoy building applications involving full-stack development, cloud computing, autonomous systems, and embedded programming.
+Java is my preferred programming language, and I've worked on projects involving full-stack development, cloud computing, autonomous systems, and embedded programming.
+I enjoy collaborating with others, exchanging ideas, and approaching new challenges with an open mind and a willingness to learn.
 
 ### Connect With Me
 
@@ -137,10 +138,10 @@ Implemented data-loading functionality, object-oriented models, and processing l
 
 ## 🎮 Outside of Programming
 
-- **Mathematics:** I enjoy mathematical problem-solving and exploring its applications in programming.
-- **Geometry Dash:** My hardest completed level is **Blade of Justice**.
-- **Creative Writing:** I enjoy writing books and developing fictional worlds.
-- **YouTube:** I also run a YouTube channel.
+- **Mathematics:** I enjoy solving integrals in my spare time and ordinary differential equations(ODEs).
+- **Geometry Dash:** I play casually from time to time, my hardest completed level is **Blade of Justice**.
+- **Creative Writing:** I enjoy writing short stories and books about my characters along with mysteries.
+- **YouTube:** I run a Geometry Dash YouTube channel.
 
 ---
 
