@@ -29,7 +29,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 ### Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Npola1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-daniel-schonekker-04603b255/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://danielschonekker.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:schoneka@tcd.ie)
 
@@ -69,7 +69,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 ## 🚀 Featured Projects
 
-### 🏎️ <a href="https://github.com/Npola1/torcs-car"><u>TORCS Autonomous Racing</u></a>
+<h2>🏎️ <a href="https://github.com/Npola1/torcs-car"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=430&amp;height=45&amp;lines=TORCS+Autonomous+Racing" alt="TORCS Autonomous Racing" /></a></h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP_Networking-00897B?style=flat-square)
@@ -77,7 +77,7 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 Developed autonomous driving controllers and multiplayer functionality, supporting six different driver configurations.
 
-### 📱 <a href="https://github.com/Npola1/internship-application-tracker"><u>Internship Application Tracker</u></a>
+<h2>📱 <a href="https://github.com/Npola1/internship-application-tracker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=480&amp;height=45&amp;lines=Internship+Application+Tracker" alt="Internship Application Tracker" /></a></h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
@@ -86,7 +86,7 @@ Developed autonomous driving controllers and multiplayer functionality, supporti
 
 Building an Android application for managing internship applications and integrating AI-assisted CV tailoring.
 
-### ⚔️ <a href="https://github.com/Npola1/Turn-Based-Combat-Website"><u>Turn Based Combat Website</u></a>
+<h2>⚔️ <a href="https://github.com/Npola1/Turn-Based-Combat-Website"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=470&amp;height=45&amp;lines=Turn+Based+Combat+Website" alt="Turn Based Combat Website" /></a></h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -95,7 +95,7 @@ Building an Android application for managing internship applications and integra
 
 Built a browser-based RPG featuring interactive combat, game-state management, and cloud-backed save functionality.
 
-### 🔌 <a href="https://github.com/Npola1/MicroProcessorsProject"><u>Microprocessor Programming</u></a>
+<h2>🔌 <a href="https://github.com/Npola1/MicroProcessorsProject"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=450&amp;height=45&amp;lines=Microprocessor+Programming" alt="Microprocessor Programming" /></a></h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-555555?style=flat-square)
@@ -103,7 +103,7 @@ Built a browser-based RPG featuring interactive combat, game-state management, a
 
 Developed embedded applications using hardware interrupts, timers, GPIO control, and Morse-code decoding.
 
-### ✈️ <a href="https://github.com/Npola1/Programming-Project"><u>Flight Data Visualisation</u></a>
+<h2>✈️ <a href="https://github.com/Npola1/Programming-Project"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=420&amp;height=45&amp;lines=Flight+Data+Visualisation" alt="Flight Data Visualisation" /></a></h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
