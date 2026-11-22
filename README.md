@@ -69,7 +69,10 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 ## 🚀 Featured Projects
 
-<h2>🏎️ <a href="https://github.com/Npola1/torcs-car"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=430&amp;height=45&amp;lines=TORCS+Autonomous+Racing" alt="TORCS Autonomous Racing" /></a></h2>
+<h2>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ce.png" width="32" height="32" align="middle" alt="Racing Car" />
+<a href="https://github.com/Npola1/torcs-car"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=430&amp;height=45&amp;lines=TORCS+Autonomous+Racing" height="45" align="middle" alt="TORCS Autonomous Racing" /></a>
+</h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/UDP_Networking-00897B?style=flat-square)
@@ -77,7 +80,10 @@ I'm a third-year **Integrated Computer Science student at Trinity College Dublin
 
 Developed autonomous driving controllers and multiplayer functionality, supporting six different driver configurations.
 
-<h2>📱 <a href="https://github.com/Npola1/internship-application-tracker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=480&amp;height=45&amp;lines=Internship+Application+Tracker" alt="Internship Application Tracker" /></a></h2>
+<h2>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png" width="32" height="32" align="middle" alt="Mobile Phone" />
+<a href="https://github.com/Npola1/internship-application-tracker"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=480&amp;height=45&amp;lines=Internship+Application+Tracker" height="45" align="middle" alt="Internship Application Tracker" /></a>
+</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
@@ -86,7 +92,10 @@ Developed autonomous driving controllers and multiplayer functionality, supporti
 
 Building an Android application for managing internship applications and integrating AI-assisted CV tailoring.
 
-<h2>⚔️ <a href="https://github.com/Npola1/Turn-Based-Combat-Website"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=470&amp;height=45&amp;lines=Turn+Based+Combat+Website" alt="Turn Based Combat Website" /></a></h2>
+<h2>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/2694.png" width="32" height="32" align="middle" alt="Crossed Swords" />
+<a href="https://github.com/Npola1/Turn-Based-Combat-Website"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=470&amp;height=45&amp;lines=Turn+Based+Combat+Website" height="45" align="middle" alt="Turn Based Combat Website" /></a>
+</h2>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -95,7 +104,10 @@ Building an Android application for managing internship applications and integra
 
 Built a browser-based RPG featuring interactive combat, game-state management, and cloud-backed save functionality.
 
-<h2>🔌 <a href="https://github.com/Npola1/MicroProcessorsProject"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=450&amp;height=45&amp;lines=Microprocessor+Programming" alt="Microprocessor Programming" /></a></h2>
+<h2>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50c.png" width="32" height="32" align="middle" alt="Electric Plug" />
+<a href="https://github.com/Npola1/MicroProcessorsProject"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=450&amp;height=45&amp;lines=Microprocessor+Programming" height="45" align="middle" alt="Microprocessor Programming" /></a>
+</h2>
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-555555?style=flat-square)
@@ -103,7 +115,10 @@ Built a browser-based RPG featuring interactive combat, game-state management, a
 
 Developed embedded applications using hardware interrupts, timers, GPIO control, and Morse-code decoding.
 
-<h2>✈️ <a href="https://github.com/Npola1/Programming-Project"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=420&amp;height=45&amp;lines=Flight+Data+Visualisation" alt="Flight Data Visualisation" /></a></h2>
+<h2>
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/2708.png" width="32" height="32" align="middle" alt="Airplane" />
+<a href="https://github.com/Npola1/Programming-Project"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&amp;weight=600&amp;size=27&amp;duration=1&amp;pause=99999&amp;color=FFFFFF&amp;vCenter=true&amp;repeat=false&amp;width=420&amp;height=45&amp;lines=Flight+Data+Visualisation" height="45" align="middle" alt="Flight Data Visualisation" /></a>
+</h2>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=flat-square&logo=processingfoundation&logoColor=white)
