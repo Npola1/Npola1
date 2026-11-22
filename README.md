@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Banner](banner.png)
+![Banner](<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/25cbf729-0d64-4153-a670-f36008f39220" />)
 
 </div>
 
